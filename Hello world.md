@@ -19,7 +19,7 @@
 2. Вторая строка
 3. Третья строка
 
-![Одна собака](\\C:\Users\user\Downloads\dogs.png "Собака смотрит влево")
+![значек геоскан](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/35001588919/logo/c-QBLEi5B0OAj4T2NW-dk7ob6LDT8XZGEg.png "значек геоскан")
 
 
 Смотрим как устроено слияние разных строк в один мастер файл
